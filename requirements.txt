@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision>=0.15
+diffusers>=0.25
+accelerate
+Pillow
+numpy
+matplotlib
+scikit-learn
+tqdm

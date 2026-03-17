@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+checkpoints/
+checkpoints_large/
+raw_data/
+data/
+generated_seg_data*/
+experiments/
+seg_checkpoints*/
+*.log
+*.json
+nohup_*.log
+.DS_Store
