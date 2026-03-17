@@ -12,3 +12,4 @@ seg_checkpoints*/
 *.json
 nohup_*.log
 .DS_Store
+paper.tex
